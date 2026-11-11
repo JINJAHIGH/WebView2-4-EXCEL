@@ -1,0 +1,5 @@
+# Preserve the CP932 and CRLF bytes used by VBE imports.
+*.bas -text
+*.cls -text
+*.frm -text
+*.frx -text
